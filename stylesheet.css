@@ -1,0 +1,31 @@
+h1 {
+	color: #ffdfba;
+	text-align: center;
+}
+
+body {
+	background-image: url("https://www.jackedfactory.com/wp-content/uploads/2015/04/Dollarphotoclub_65643333.jpg");
+	background-size: cover;	
+	color: white;
+}
+
+p{
+	border: 1px solid #ccc!important
+}
+
+h2{
+	border-bottom: 6px solid #baffc9;
+}
+
+a{
+	color:white;
+	text-decoration: none !important;
+}
+
+ul {
+	list-style:none;
+	padding-left: 10px;
+}
+h3 {
+	border-bottom: 6px solid #add8e6;
+}
